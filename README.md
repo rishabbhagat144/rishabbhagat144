@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science & AI/ML Projects  <br>👯 I’m looking to collaborate on Open Source and ML Projects  <br>🤝 I’m looking for help with Advanced Deep Learning & MLOps  <br>🌱 I’m currently learning Generative AI, NLP, and Data Analytics  <br>💬 Ask me about Python, SQL, Machine Learning, and Data Science  <br>⚡ Fun fact: I love turning data into real-world solutions 🚀
+🔭 I’m currently working on Data Science & AI/ML Projects  <br>👯 I’m looking to collaborate on Open Source and ML Projects  <br>🤝 I’m looking for help with Deep Learning & MLOps  <br>🌱 I’m currently learning Generative AI, NLP, and Data Analytics  <br>💬 Ask me about Python, SQL, Machine Learning, and Data Science  <br>⚡ Fun fact: I love turning data into real-world solutions 🚀
 
 
 ## 🌐 Socials:
